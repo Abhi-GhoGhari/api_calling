@@ -1,16 +1,2 @@
-# api_calling
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+><img src = "https://github.com/Abhi-GhoGhari/api_calling/assets/143987211/a3d8fe42-c6ca-47fa-92d7-1f38ae114bb5" width = "250">
+><img src = "https://github.com/Abhi-GhoGhari/api_calling/assets/143987211/e9dc739f-e904-4410-a92c-2a38cb8bd9e9" width = "250">
